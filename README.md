@@ -1,6 +1,6 @@
 # sedona
 
-> A Vue.js project
+> A Vue.js with fix
 
 ## Build Setup
 
