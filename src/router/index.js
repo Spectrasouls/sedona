@@ -16,8 +16,8 @@ export default new Router({
     },
     {
       path: '/photo',
-      name: 'Index',
-      component: Index
+      name: 'Photo',
+      component: Photo
     },
     {
       path: '/form',

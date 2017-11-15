@@ -1,29 +1,29 @@
 <template>
 	<div class="index">
 		<!-- header -->
-		<header class="main-head">
-			<nav class="main-head__menu  main-head__menu_mobile">
-				<div class="main-head__menu_close">*</div>
-				<ul class="main-head__list">
-					<li class="main-head__item"><a href="#">Главная</a></li>
-					<li class="main-head__item"><a href="#">Фото и видео</a></li>
-					<li class="main-head__item"><a href="#">Форма отзыва</a></li>
-					<li class="main-head__item"><a href="#">Html Academy</a></li>
+		<header class="header">
+			<nav class="menu  menu_mobile">
+				<div class="menu__close">*</div>
+				<ul class="menu__list">
+					<li class="menu__item"><a href="#">Главная</a></li>
+					<li class="menu__item"><a href="#">Фото и видео</a></li>
+					<li class="menu__item"><a href="#">Форма отзыва</a></li>
+					<li class="menu__item"><a href="#">Html Academy</a></li>
 					
 				</ul>
 				
 
 			</nav>
-			<div class="main-head__logo">
+			<div class="header__logo">
 				<img src="http://placehold.it/188x56" alt="City of Sedona">
 			</div>
 
-			<div class="main-banner">
+			<div class="banner">
 				<img src="http://placehold.it/1200x518" alt="welcome to sedona">
-				<div class="main-banner_title"></div>
+				<div class="banner__title"></div>
 			</div>
 
-			<div class="page-title">
+			<div class="index__title">
 				<h2 class="title">Седона — Небольшой городок в аризоне,заслуживающий большего!</h2>
 				<span class="text">Рассмотрим 5 причин,по которым Седона круче чем Гранд Каньон!</span>
 			</div>
@@ -32,15 +32,15 @@
 <!-- header -->
 
 		<section class="triggers">
-			<div class="triggers-wrapper">
+			<div class="triggers__wrapper">
 
-				<div class="triggers-wrapper_item">
-					<h3 class="triggers-wrapper_title">Настоящий городок</h3>
+				<div class="triggers__item">
+					<h3 class="triggers__title">Настоящий городок</h3>
 					<span class="triggers__num">-№1-</span>
 					<p class="triggers__discription">Седона не атракцион для туристов,там течет своя жизнь</p>
 				</div>
 
-				<div class="main-triggers__img">
+				<div class="triggers__img">
 					<img src="http://placehold.it/800x400" alt="photo-city">
 				</div>
 			</div>
@@ -48,11 +48,11 @@
 			<div class="wrapper-content  wrapper-content_white">
 
 				<div class="wrapper-content__item">
-					<div class="wrapper-content__item_icon">
+					<div class="wrapper-content__icon">
 						<img src="http://placehold.it/78x78" alt="house">
 					</div>
 					
-					<div class="wrapper-content__item_description">
+					<div class="wrapper-content__description">
 						<span class="black-text">Жилье</span>
 						<p class="gray-text"> Рекомендуем пожить в настоящем мотеле,все как в кино</p>
 					</div>
@@ -112,8 +112,8 @@
 		</section>
 
 		<section class="interested">
-			<h2 class="interested-question">Заинтересовались?</h2>
-			<span class="interested-choise">Укажите предпологаемые даты поездки и мы покажем вам лучшие предложения гостиниц в седрне</span>
+			<h2 class="interested__question">Заинтересовались?</h2>
+			<span class="interested__choise">Укажите предпологаемые даты поездки и мы покажем вам лучшие предложения гостиниц в седрне</span>
 			<button class="btn">Найти гостинницу</button>
 		</section>
 
@@ -121,16 +121,16 @@
 			<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ad839a147f7156edf62e8c29536ce535005c584ee3082994102f5a0c84034f038&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>
 		</section> -->
 
-		<footer class="main-footer">
+		<footer class="footer">
 
-			<div class="main-footer__htag">
-				<a href="#" class="main-footer__htag__link">#VISITSEDONA</a>
+			<div class="footer__htag">
+				<a href="#" class="footer__link">#VISITSEDONA</a>
 			</div>
 
 			<div class="social">
-				<a href="#" class="social__link" >TWITTER</a>
-				<a href="#" class="social__link" >FACEBOOK</a>
-				<a href="#" class="social__link" >YOUTUBE</a>
+				<a href="#" class="social__link social__link_tw" >TWITTER</a>
+				<a href="#" class="social__link social__link_fb" >FACEBOOK</a>
+				<a href="#" class="social__link social__link_yt" >YOUTUBE</a>
 			</div>
 
 			<div class="copyrights">
