@@ -85,24 +85,24 @@
 				</div>
 			</div>
 
-			<div class="content content_gray">
+			<div class="triggers triggers_gray">
 
-				<div class="content-item">
-					<h3 class="content-item_title">Небольшая площадь</h3>
-					<span class="content-item_num">-№3-</span>
-					<p class="content-item_description">Все достопримечательности находятся очень близко</p>
+				<div class="triggers-item">
+					<h3 class="triggers-item_title">Небольшая площадь</h3>
+					<span class="triggers-item_num">-№3-</span>
+					<p class="triggers-item_description">Все достопримечательности находятся очень близко</p>
 				</div>
 
-				<div class="content-item">
-					<h3 class="content-item_title">Красивая дорога</h3>
-					<span class="content-item_num">-№4-</span>
-					<p class="content-item_description">Ехать в седону из Лас-Вегаса совсем не скучно!</p>
+				<div class="triggers-item">
+					<h3 class="triggers-item_title">Красивая дорога</h3>
+					<span class="triggers-item_num">-№4-</span>
+					<p class="triggers-item_description">Ехать в седону из Лас-Вегаса совсем не скучно!</p>
 				</div>
 
-				<div class="content-item">
-					<h3 class="content-item_title">Мало туристов</h3>
-					<span class="content-item_num">-№5-</span>
-					<p class="content-item_description">Большенство едет в Гранд Каньон и толпится там</p>
+				<div class="triggers-item">
+					<h3 class="triggers-item_title">Мало туристов</h3>
+					<span class="triggers-item_num">-№5-</span>
+					<p class="triggers-item_description">Большенство едет в Гранд Каньон и толпится там</p>
 				</div>
 
 				

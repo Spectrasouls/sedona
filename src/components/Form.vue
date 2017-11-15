@@ -52,7 +52,7 @@
 
 			</div>
 
-			<div class="forms-contacts">
+			<div class="forms__contacts">
 				<h2 class="title">Контактная информация:</h2>
 
 				<label>
@@ -74,7 +74,7 @@
 				
 
 			</div>
-			<div class="forms-mood">
+			<div class="forms__mood">
 				<h2 class="title">Ваше общее впечатление:</h2>
 
 				<label>
@@ -90,7 +90,7 @@
 				</label>Затрудняюсь ответить 
 			</div>
 			
-			<div class="forms-adventures">
+			<div class="forms__adventures">
 				<h2 class="title">Посещенные достопримечательности:</h2>
 
 				<label>
@@ -110,7 +110,7 @@
 				</label>Красные скалы
 			</div>
 				
-			<div class="forms-emotions">
+			<div class="forms__emotions">
 				<h2 class="title">Опишите свои эмоции:</h2>
 				<textarea rows="5" cols="25" placeholder="Опишите подробно все свои восторги"></textarea>
 				<div class="forms-emotions__btn">

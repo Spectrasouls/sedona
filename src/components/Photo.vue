@@ -30,8 +30,101 @@
 
 		</header>
 
-		<!-- gallary-start -->
-		<!-- gallary-end -->
+		<section class="gallery">
+
+			<div class="gallery-item">
+
+				<div class="gallery__img">
+					<img src="http://placehold.it/280x280" alt="img">
+				</div>
+
+				<div class="gallery__content">
+					<h3 class="gallery-title">Неродные просторы</h3>
+					<p class="gallery-author">Автор: Борис</p>
+				</div>
+
+				<div class="gallery__count">
+					<span class="gallery-icon">icon</span>
+					<p class="gallery-likes">1350</p>
+					
+				</div>
+
+				
+			</div>
+
+			<div class="gallery-item">
+
+				<div class="gallery__img">
+					<img src="http://placehold.it/280x280" alt="img">
+				</div>
+
+				<div class="gallery__content">
+					<h3 class="gallery-title">Местная растительность</h3>
+					<p class="gallery-author">Автор: Сергей</p>
+				</div>
+
+				<div class="gallery__count">
+					<span class="gallery-icon">icon</span>
+					<p class="gallery-likes">143</p>
+					
+				</div>
+
+				
+			</div>
+
+			<div class="gallery-item">
+				<div class="gallery__img">
+					<img src="http://placehold.it/280x280" alt="img">
+				</div>
+
+				<div class="gallery__content">
+					<h3 class="gallery-title">Дорога на север</h3>
+					<p class="gallery-author">Автор: Петр</p>
+				</div>
+
+				<div class="gallery__count">
+					<span class="gallery-icon">icon</span>
+					<p class="gallery-likes">96</p>
+					
+				</div>
+
+				
+			</div>
+
+			<div class="gallery-item">
+
+				<div class="gallery__img">
+					<img src="http://placehold.it/280x280" alt="img">
+				</div>
+
+				<div class="gallery__content">
+					<h3 class="gallery-title">Мост дьявола</h3>
+					<p class="gallery-author">Автор: Антон</p>
+				</div>
+
+				<div class="gallery__count">
+					<span class="gallery-icon">icon</span>
+					<p class="gallery-likes">254</p>
+				</div>
+
+				
+			</div>
+
+
+
+		</section>
+		<section class="presentation">
+			<div class="preseation-wrapper">
+				<h2 class="title">Все еще сомневаетесь?</h2>
+				<span class="text">Смотрите видеопрезентаци и скорее за билетами, пока они не подорожали в очередной раз!</span>
+			</div>
+			<div class="presentation-media">
+				<video controls class="presentation__video">
+					<source src="">
+				</video>
+				
+			</div>
+		</section>
 
 
 
